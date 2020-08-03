@@ -1,0 +1,12 @@
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.csprojAssemblyReference.cache
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.AssemblyInfoInputs.cache
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.AssemblyInfo.cs
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.csproj.CoreCompileInputs.cache
+/Users/thiagochenzhu/project/cstest/bin/Debug/netcoreapp3.1/cstest.deps.json
+/Users/thiagochenzhu/project/cstest/bin/Debug/netcoreapp3.1/cstest.runtimeconfig.json
+/Users/thiagochenzhu/project/cstest/bin/Debug/netcoreapp3.1/cstest.runtimeconfig.dev.json
+/Users/thiagochenzhu/project/cstest/bin/Debug/netcoreapp3.1/cstest.dll
+/Users/thiagochenzhu/project/cstest/bin/Debug/netcoreapp3.1/cstest.pdb
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.dll
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.pdb
+/Users/thiagochenzhu/project/cstest/obj/Debug/netcoreapp3.1/cstest.genruntimeconfig.cache
